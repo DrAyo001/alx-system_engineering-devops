@@ -1,2 +1,1 @@
-Display current directory contents, including hidden files
-Task 5: Display current directory in long format, user and group numerically and hidden
+Task 6:Create a script that creates a directory named my_first_directory in the /tmp/ directory
