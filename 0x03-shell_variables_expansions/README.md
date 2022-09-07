@@ -5,3 +5,6 @@ Task 3: Create a script that counts the number of directories in the PATH
 Task 4: Create a script that lists environment variables.
 Task 5: Create a script that lists all local variables and environment variables, and functions
 Task 6: Create a script that creates a new local variable. name=BEST vallocal variables
+Task 7: Create a script that creates a new global variable. name=BEST vaglobal variable. name=BEST value=School. >> README.md
+echo Task 7: Create a script that creates a new global variable. name=BEST vaglobal variable. name=BEST value=School.
+Task 7: Create a script that creates a new global variable. name=BEST vaglobal variable. name=BEST value=School.
