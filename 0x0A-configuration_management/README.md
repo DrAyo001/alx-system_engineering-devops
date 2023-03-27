@@ -1,7 +1,7 @@
  ``diff
 
 ! Configuration done finally.
-+ By Authur: Mahadi Abuhuraira
++ By Authur: Yusuf Babatunde Sodiq
 
 `` 
 ## Tasks

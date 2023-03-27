@@ -2,7 +2,7 @@
 
 ! SSH RSA Second Pair Part {0x0B}
 
-@ Author: Mahadi Abuhuraira
+@ Author: Yusuf Babatunde Sodiq
 
 ```
 ## Tasks

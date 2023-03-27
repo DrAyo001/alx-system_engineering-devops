@@ -1,8 +1,7 @@
 ```diff
 
 - Up and running code.
-- Author: Mahafi Abuhuraira
-
+- Author: Yusuf Babatunde Sodiq
 ```
 ## Tasks
 * [0-give_me_a_page](0-give_me_a_page)
